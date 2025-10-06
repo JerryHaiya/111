@@ -1,0 +1,11 @@
+{
+  "ver":1.0,
+  "se":{
+    "26":{"url":"https://raw.githubusercontent.com/JerryHaiya//tenhou-se/main/天鳳語音包/司馬昭.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/JerryHaiya//tenhou-se/main/天鳳語音包/槓.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/JerryHaiya//tenhou-se/main/天鳳語音包/吃.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/JerryHaiya//tenhou-se/main/天鳳語音包/立直.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/JerryHaiya//tenhou-se/main/r天鳳語音包/哈哈胡.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/JerryHaiya//tenhou-se/main/天鳳語音包/自摸.mp3"}
+  }
+}
